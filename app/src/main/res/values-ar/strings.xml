@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Administer</string>
+    <string name="Home">الرئيسيه</string>
+    <string name="AboutUs">من نحن</string>
+    <string name="RateApp">قيم التطبيق</string>
+    <string name="AboutApp">عن التطبيق</string>
+    <string name="ConnUs">اتصل بنا</string>
+    <string name="Language">English</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#59c90f</color>
+    <color name="colorPrimaryDark">#59c90f</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="bg_mainAct">#2a2a2e</color>
+    <color name="white">#ffffff</color>
+    <color name="ordersTextColor">#0d0f0d</color>
+    <color name="orders_number">#59c90f</color>
+    <color name="icons_color">#59c90f</color>
+    <color name="hint_color">#d4d4d4</color>
+    <color name="btn_add">#16bf2a</color>
+    <color name="spinner_background">#d4d4d4</color>
+    <color name="black">#111010</color>
+
+
+
+    <color name="picture_above">#35e6e6e6</color>
+    <color name="pictureUn_s_above">#41ffffff</color>
+    <color name="btn_reload">#e1e1e1</color>
+    <color name="btn_reload_text">#515151</color>
+    <color name="trans">#00ffffff</color>
+
+    <color name="yellow_canary">#c5d400</color>
+    <color name="dark_canary">#d0de19</color>
+    <color name="bg_reside">#59c90f</color>
+    <color name="text_num_of_basket">#ffaa00</color>
+    <color name="onHover">#83b30b</color>
+
+
+    <color name="bg_recycler_main">#59c90f</color>
+    <color name="bg_main_activity">#fff3d5</color>
+
+
+
+    <color name="receipt" tools:ignore="MissingDefaultResource">#ff0900</color>
+    <color name="delete">#dfdddd</color>
+    <color name="ordered_list">#ff8c00</color>
+    <color name="trying">#a6a6a6</color>
+</resources>
